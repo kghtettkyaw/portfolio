@@ -830,6 +830,19 @@ fieldset {
     color: #425BB5;
 }
 
+.resume_btn{
+    cursor: pointer;
+    background-color: #425BB5;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    border: none;
+    margin-top: 20px;
+}
+
 /* Responsive media queries
 ==================================================*/
 
@@ -850,7 +863,8 @@ fieldset {
     h1 {
         font-family: 'Playfair Display', serif;
         font-size: 50px;
-        line-height: 50px;
+        line-height: 70px;
+
     }
     #home,
     .disply-table {
