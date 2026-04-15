@@ -125,6 +125,8 @@ $(document).ready(function () {
 
     // TV Program
     $("#demo11").animatedModal11();
+    // NGO
+    $("#demo10").animatedModal10();
 
 
     // Contact Form 	
