@@ -632,7 +632,8 @@ a.active {
 .popup-modal6,
 .popup-modal7,
 .popup-modal8,
-.popup-modal9 {
+.popup-modal9,
+.popup-modal10 {
     background: #fff;
 }
 
@@ -644,7 +645,8 @@ a.active {
 .close-popup-modal6,
 .close-popup-modal7,
 .close-popup-modal8,
-.close-popup-modal9
+.close-popup-modal9,
+.close-popup-modal10
  {
     float: right;
     margin: 20px;
@@ -668,7 +670,8 @@ a.active {
 .animatedModal-on6 .close-popup-modal6,
 .animatedModal-on7 .close-popup-modal7,
 .animatedModal-on8 .close-popup-modal8,
-.animatedModal-on9 .close-popup-modal9{
+.animatedModal-on9 .close-popup-modal9,
+.animatedModal-on10 .close-popup-modal10{
     opacity: 1;
 }
 .color-darkblue{
